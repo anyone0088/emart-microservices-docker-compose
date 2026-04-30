@@ -38,7 +38,7 @@ The stack includes frontend, backend APIs, databases, and reverse proxy services
 ### Clone Repository
 
 ```bash id="h6p7jw"
-git clone https://github.com/anyone0088/docker_deployment.git
+git clone https://github.com/anyone0088/emart-microservices-docker-compose.git
 cd docker_deployment
 ```
 
